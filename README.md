@@ -1,6 +1,6 @@
 Face Recognition with CFPW Dataset: Preprocessing, Feature Extraction, and Performance Analysis
 Project Description
-This project focuses on applying face detection, preprocessing, feature extraction, and performance analysis techniques using the Celebrities in Frontal-Profile Wild (CFPW) dataset. Specifically, it utilizes only the frontal images from the dataset to explore face recognition methodologies and evaluate their effectiveness. The primary objective is to detect faces, preprocess images, extract features using a pre-trained CNN model, compute similarity scores, and analyze performance through various metrics and visualizations.
+This project focuses on applying face detection, preprocessing, feature extraction, and performance analysis techniques using the Celebrities in Frontal-Profile Wild (CFPW) dataset(You can download the data-set here http://cfpw.io/). Specifically, it utilizes only the frontal images from the dataset to explore face recognition methodologies and evaluate their effectiveness. The primary objective is to detect faces, preprocess images, extract features using a pre-trained CNN model, compute similarity scores, and analyze performance through various metrics and visualizations.
 
 Achievements
 Dataset Preparation:
