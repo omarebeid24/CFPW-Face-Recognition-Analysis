@@ -5,7 +5,7 @@ This project focuses on applying face detection, preprocessing, feature extracti
 Achievements
 Dataset Preparation:
 
-Downloaded and utilized the CFPW dataset with frontal images.
+Downloaded and utilized the CFPW dataset with frontal images. (http://cfpw.io/)
 Renamed the images in a structured format for easier identification.
 Applied helper scripts and custom code to facilitate the preprocessing pipeline.
 Face Detection and Preprocessing:
@@ -27,14 +27,3 @@ Visualized the relationship between False Match Rate (FMR) and False Non-Match R
 Error Analysis:
 
 Identified images where face detection failed and reported the failure rate.
-Showcased examples of the top 3 impostor pairs with the highest scores and the bottom 3 genuine pairs with the lowest scores.
-Deliverables:
-
-Submitted all relevant code and plots for face detection, preprocessing, feature extraction, and performance analysis.
-Highlighted key insights and challenges in a detailed report.
-Key Tools and Libraries
-DeepFace: Used for feature extraction with pre-trained CNN models.
-Matplotlib and Seaborn: For generating score distributions, ROC curves, and FMR vs. FNMR plots.
-OpenCV: For image preprocessing tasks, including face detection and alignment.
-Pandas: For handling similarity matrices and data analysis.
-This repository demonstrates a comprehensive workflow for facial recognition research, emphasizing preprocessing, feature extraction, and performance evaluation. The project also provides insights into system accuracy and areas of improvement through error analysis.
